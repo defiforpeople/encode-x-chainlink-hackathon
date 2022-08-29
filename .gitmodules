@@ -10,3 +10,7 @@
 [submodule "packages/strat-recursive-farming"]
 	path = packages/strat-recursive-farming
 	url = git@github.com:defiforpeople/strat-recursive-farming.git
+[submodule "packages/frontend"]
+	path = packages/frontend
+	url = git@github.com:defiforpeople/frontend.git
+  branch = cv-project/encode-chainlink
