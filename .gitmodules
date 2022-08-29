@@ -7,3 +7,6 @@
 [submodule "packages/synchronizer"]
 	path = packages/synchronizer
 	url = git@github.com:defiforpeople/synchronizer.git
+[submodule "packages/strat-recursive-farming"]
+	path = packages/strat-recursive-farming
+	url = git@github.com:defiforpeople/strat-recursive-farming.git
